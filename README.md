@@ -31,7 +31,7 @@ Possibilidades de Aplicação
 
 ***
 
-*Conclusão  
+Conclusão  
 
 O uso do Azure Speech Studio aliado ao Azure Language Studio permite construir soluções inteligentes de análise de fala e texto, extraindo insights de sentimentos e intenções com alta precisão. Essa combinação é poderosa para empresas que desejam entender melhor a experiência do usuário, melhorar seus serviços e tomar decisões baseadas em dados.  
 
